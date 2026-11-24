@@ -70,3 +70,7 @@ Upstream Dab's Mod is vendored unmodified and pinned by commit (`UPSTREAM_PIN`).
 - Sideloaded apps expire: a free Apple account signs for 7 days, a paid developer account for a year. SideStore refreshes them in the background; open it and let it re-sign if the app stops launching.
 - Crashes are written to `crash.txt` in the app's folder; attach it to a [GitHub issue](https://github.com/rebelancap/perfect-dark-ios/issues).
 - Perfect Dark is © Rare / Microsoft; the 2010 Xbox Live Arcade release's art is 4J Studios' and Rare's, and is supplied by you, never by this project. This project is not affiliated with, endorsed by, or connected to any of them.
+
+## Support
+
+This fork keeps Perfect Dark installable on Apple Vision Pro. It's maintained as part of the [AVP Ports Index](https://github.com/edgytoast/avp-ports-index), which tracks every port we can find and runs a safety check on each one. If this guide got you playing, you can [buy me a coffee](https://buymeacoffee.com/adminpz) to help keep it running.
